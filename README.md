@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: **Websites and Web Applications,Mobile Applications**
 - 🌱 I’m currently learning: **Machine Learning,CI/CD**
 - 💬 Ask me about **Software Dev...**
-  -📫 How to reach me: <a href="mailto:imtiazmohsin56gmail.com" target="_blank">imtiazmohsin56gmail.com</a>
+- 📫 How to reach me: <a href="mailto:imtiazmohsin56gmail.com">imtiazmohsin56gmail.com</a>
 - ⚡ Fun fact: I love to travel and travel very often.
 
 <br/>
@@ -41,7 +41,7 @@
     <tr>
         <td>Programming/Backend</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/ javascript-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
@@ -81,7 +81,6 @@
         <td>IDEs</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
@@ -90,7 +89,6 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/xd/xd-plain.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/figma/figma-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
