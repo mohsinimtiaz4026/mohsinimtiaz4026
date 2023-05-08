@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-- 🔭 I’m currently working on: **Websites and Web Applications,Mobile Applications**
+- 🔭 I’m currently working on: **Web Applications,Mobile Applications**
 - 🌱 I’m currently learning: **Machine Learning,CI/CD**
 - 💬 Ask me about **Software Dev...**
 - 📫 How to reach me: <a href="mailto:imtiazmohsin56gmail.com">imtiazmohsin56gmail.com</a>
