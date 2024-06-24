@@ -38,7 +38,7 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
              <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
