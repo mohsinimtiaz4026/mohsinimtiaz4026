@@ -64,7 +64,6 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
              <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/express/express-original.svg" width="40" height="40"/></a>
-             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/django/django-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
