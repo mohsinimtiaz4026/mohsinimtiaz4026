@@ -84,6 +84,12 @@
         </td>
     </tr>
     <tr>
+        <td>Software Q</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jira/jira-original.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
         <td>Designing UI/UX</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/xd/xd-plain.svg" width="40" height="40"/></a>
